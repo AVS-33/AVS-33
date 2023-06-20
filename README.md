@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AVS-33
 - 👀 I’m interested in web devolopment
 - 🌱 I’m currently learning full stack web devolopment course
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akulasuresh102@gmail.com
 
 <!---
